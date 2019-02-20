@@ -41,6 +41,9 @@
     <None Update="Presets\H264 Single Bitrate 4K.json">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
+    <None Update="Presets\H264 Single Bitrate 1080p.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
     <None Update="Presets\H264 Single Bitrate 720p.json">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
